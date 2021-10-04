@@ -12,6 +12,7 @@ module.exports = {
   // mainUrl: 'https://virtualcoffee.io',
   //
   // bio - accepts markdown.
+  bio: `I'm a freelance writer with a background in front-end web development and digital communication. 😄 Pronouns: she / her.`,
   //   bio: `# Hi there, I'm Sadie ✨
 
   // - I'm a freelance writer with a background in front-end web development and digital communication.
